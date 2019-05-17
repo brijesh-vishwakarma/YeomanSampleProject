@@ -1,0 +1,2 @@
+# YeomanSampleProject
+Sample project
